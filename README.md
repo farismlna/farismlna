@@ -1,9 +1,5 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:1e3a8a,100:7c3aed&height=170&section=header&text=Faris%20Maulana%20Al%20Ba%20I&fontSize=38&fontColor=ffffff&fontAlignY=36&desc=Game%20Programmer%20%E2%80%A2%20C%23%2F.NET%20Developer&descSize=16&descAlignY=58" alt="Faris Maulana Al Ba I" width="100%"/>
-
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=18&duration=3000&pause=800&color=7C3AED&center=true&vCenter=true&width=520&lines=Building+gameplay+in+Unity%2C+Godot+and+Roblox;Writing+business+software+with+C%23+and+.NET;Coaching+LKS+ITSSB+students+since+2023" alt="Typing intro"/>
-
 <a href="https://www.linkedin.com/in/farismaulanaab"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=data%3Aimage%2Fsvg%2Bxml%3Bbase64%2CPHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCAyNCAyNCI%2BPHBhdGggZmlsbD0id2hpdGUiIGQ9Ik0yMC40NSAyMC40NWgtMy41NnYtNS41N2MwLTEuMzMtLjAyLTMuMDQtMS44NS0zLjA0LTEuODUgMC0yLjE0IDEuNDUtMi4xNCAyLjk0djUuNjdIOS4zNFY5aDMuNDF2MS41NmguMDVjLjQ4LS45IDEuNjQtMS44NSAzLjM3LTEuODUgMy42IDAgNC4yNyAyLjM3IDQuMjcgNS40NnY2LjI4ek01LjM0IDcuNDNhMi4wNiAyLjA2IDAgMSAxIDAtNC4xMyAyLjA2IDIuMDYgMCAwIDEgMCA0LjEzek03LjEyIDIwLjQ1SDMuNTZWOWgzLjU2djExLjQ1ek0yMi4yMiAwSDEuNzdDLjc5IDAgMCAuNzcgMCAxLjczdjIwLjU0QzAgMjMuMjMuNzkgMjQgMS43NyAyNGgyMC40NWMuOTggMCAxLjc4LS43NyAxLjc4LTEuNzNWMS43M0MyNCAuNzcgMjMuMiAwIDIyLjIyIDB6Ii8%2BPC9zdmc%2B" alt="LinkedIn"/></a>
 <a href="mailto:farismaulanaalbai@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/></a>
 <a href="https://reaktifstudio.online"><img src="https://img.shields.io/badge/Reaktif_Studio-111827?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Reaktif Studio"/></a>
@@ -18,9 +14,9 @@ I'm a Computer Science student at **Universitas Negeri Jakarta** and a developer
 
 On the game side, I program gameplay systems in **Unity**, **Godot** and **Roblox**: action combat, enemy AI, save systems and server-authoritative multiplayer logic. On the software side, I work with **C#**, **.NET** and **SQL Server**, and build client projects at [Reaktif Studio](https://reaktifstudio.online). I also coach SMK students for the LKS *IT Software Solution for Business* competition.
 
-- 🔭 **Working on:** boss combat and save systems for a Roblox game at Alaydrus Studio, and a reporting bot for a client at Reaktif Studio
-- 🌱 **Learning:** ASP.NET Core with EF Core, and a new Unity game for 2026
-- 🎯 **Looking for:** a Game Programmer or Software Engineer internship
+-  **Working on:** boss combat and save systems for a Roblox game at Alaydrus Studio, and a reporting bot for a client at Reaktif Studio
+-  **Learning:** ASP.NET Core with EF Core, and a new Unity game for 2026
+-  **Looking for:** a Game Programmer or Software Engineer internship
 
 ## 💻 Tech Stack
 
@@ -66,24 +62,24 @@ On the game side, I program gameplay systems in **Unity**, **Godot** and **Roblo
 ![EF Core](https://img.shields.io/badge/EF_Core-68217A?style=for-the-badge&logo=dotnet&logoColor=white)
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
 
-## 🚀 Featured Projects
+##  Featured Projects
 
 | | Project | What I built | Stack |
 |:-:|---|---|---|
-| 🎮 | **[Return of Beatrice](https://github.com/farismlna/return-of-beatrice-unity)** | Action combat, inventory, interactive puzzles and enemy AI for a 3D action RPG (studio internship) | Unity · C# |
-| 🎮 | **[Vespera: Theresa Legacy](https://github.com/CukupTidurTeam/vespera-theresa-legacy)** | Player controller, light/dark dual-bar system and checkpoint saves for a 2D action platformer | Godot · GDScript |
-| 🎮 | **[Metamorcapsule](https://github.com/farismlna/gameseed-3a3p)** | Trait-absorption mechanic for a GameSeed jam puzzle-exploration game | Godot · GDScript |
-| 🌐 | **[EcoServe](https://www.ecoserve.site)** | Consumer and technician apps for an e-waste repair platform. 🏅 Top 9 of 70 at I/O Festival 2026 | Next.js · TypeScript |
-| 🧠 | **[Nexora Learn](https://nexora-learn.vercel.app)** | In-browser ML adaptive difficulty and code anti-cheat. 🏅 Top 19 of 97 at Techcomfest 2025 | Next.js · TensorFlow.js |
-| 🧪 | **[AQG-DDP](https://github.com/farismlna/aqg-pbk)** | Quiz generator grounded in lecture modules, with a validator chain | Python · FastAPI |
+|  | **[Return of Beatrice](https://github.com/farismlna/return-of-beatrice-unity)** | Action combat, inventory, interactive puzzles and enemy AI for a 3D action RPG (studio internship) | Unity · C# |
+|  | **[Vespera: Theresa Legacy](https://github.com/CukupTidurTeam/vespera-theresa-legacy)** | Player controller, light/dark dual-bar system and checkpoint saves for a 2D action platformer | Godot · GDScript |
+|  | **[Metamorcapsule](https://github.com/farismlna/gameseed-3a3p)** | Trait-absorption mechanic for a GameSeed jam puzzle-exploration game | Godot · GDScript |
+|  | **[EcoServe](https://www.ecoserve.site)** | Consumer and technician apps for an e-waste repair platform. 🏅 Top 9 of 70 at I/O Festival 2026 | Next.js · TypeScript |
+|  | **[Nexora Learn](https://nexora-learn.vercel.app)** | In-browser ML adaptive difficulty and code anti-cheat. 🏅 Top 19 of 97 at Techcomfest 2025 | Next.js · TensorFlow.js |
+|  | **[AQG-DDP](https://github.com/farismlna/aqg-pbk)** | Quiz generator grounded in lecture modules, with a validator chain | Python · FastAPI |
 
-## 🏆 Achievements
+##  Achievements
 
 - 🥈 **2nd place**, LKS *IT Software Solution for Business*, East Jakarta (2023). My students later won 2nd place at the DKI Jakarta provincial level in 2025 and 2026.
 - 🏅 **Top 9 of 70 teams**, I/O Festival 2026 (national)
 - 🏅 **Top 19 of 97 teams**, Techcomfest 2025 (national)
 
-## 📊 GitHub Stats
+##  GitHub Stats
 
 <div align="center">
 
